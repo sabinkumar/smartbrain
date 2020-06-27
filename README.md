@@ -1,3 +1,7 @@
+Facerecognition web app
+Frontend built using React, HTML, CSS
+Backend built using Node, Express
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
